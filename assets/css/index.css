@@ -219,7 +219,7 @@ a {
 .tweet-profile-icon {
   width: 50px;
   height: 50px;
-  background: url(/assets/images/profile-icon.PNG);
+  background: url("../images/profile-icon.png");
   border-radius: 50%;
   background-position: center;
   background-size: cover;
